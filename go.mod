@@ -1,4 +1,4 @@
-module gridassessment
+module vehiclereplay
 
 go 1.22
 
